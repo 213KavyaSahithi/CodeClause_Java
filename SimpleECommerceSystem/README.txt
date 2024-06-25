@@ -21,4 +21,4 @@ View Cart: Displays the contents of the shopping cart with details such as produ
 Checkout: Completes the purchase by confirming the items in the cart and clearing the cart.
 Main Method: Creates an instance of the ECommerceSystem class and makes the application visible.
 
-This project demonstrates the use of Java Swing for creating a graphical user interface (GUI) and provides a simple yet functional example of an e-commerce system. You can use this code as a basis for developing more advanced e-commerce applications with additional features and customization.
+This project demonstrates the use of Java Swing for creating a graphical user interface (GUI) and provides a simple functionality e-commerce system.
